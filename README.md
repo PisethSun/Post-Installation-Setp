@@ -23,14 +23,20 @@
 
 <ol>
     <li>Login Using OsTicket Admin</li>
-    <li>Click On Admin Panel ==> Agents ==> Add New Agent</li>
-   
-   <img src="images/addnew_agent.png" alt="Add new agent image" width="650" height="600">
+    <li>Click On Admin Panel ==> Agents ==> Role ==> Add New Role</li>
+    
+   <img src="images/addnew_role.png" alt="Add new role image">
+
+<br>
+ <li>Permission</li>
+
+
+ <img src="images/addnew_role_permission.png" alt="Add new role image">
 
    
+ <li>Click On Add Role</li>
 
 </ol>
 
-***Username and Password <br>
++Roles should be added to the table
 
-***Don't forget to write them down
