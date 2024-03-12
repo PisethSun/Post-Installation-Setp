@@ -76,3 +76,30 @@ Admin Panel > Setting > Users > Setting : Unchecked "Registeration Method " Set 
 
 <br>
 <img src="images/uncheck_registered method.png" alt="Add new  image">
+
+
+<h3>Allowed Anyone to create Tickets<h3>
+
+<p> Agents are given access to the help desk with the intent to respond and resolve the tickets</p>
+
+<h4>Step One: </h4>
+<li>Click On Admin Panel ==> Agents ==> Agents ==> Add New Agent</li>
+ <br>
+
+<img src="images/addnew_agent.png" alt="Add new  image">
+
+
+<li>You can add Access , Permission as you wish.</li>
+
+<hr>
+
+<h4>Configure SLA</h4>
+<p> SAL Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.</p>
+
+<h5>Step One</h5>
+
+<ol>
+    <li>Click On Admin Panel > Manage > SLA > Add New SLA</li>
+       <img src="images/addnew_SLA.png" alt="Add new SLA image">
+
+<hr>
