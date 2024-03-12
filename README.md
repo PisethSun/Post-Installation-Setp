@@ -25,7 +25,7 @@
     <li>Login Using OsTicket Admin</li>
     <li>Click On Admin Panel ==> Agents ==> Add New Agent</li>
    
-   <img src="images/addnew_agent.png" alt="Add new agent image" width="500" height="600">
+   <img src="images/addnew_agent.png" alt="Add new agent image" width="650" height="600">
 
    <p style="color: red;">*</p> Username and Password 
 
