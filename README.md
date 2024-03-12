@@ -27,10 +27,9 @@
    
    <img src="images/addnew_agent.png" alt="Add new agent image" width="650" height="600">
 
- 
+   
 
 </ol>
 
-*{: style="color: red;"} Username and Password
-
-*{: style="color: red;"} Don't forget to write them down
+***Username and Password 
+***Don't forget to write them down
