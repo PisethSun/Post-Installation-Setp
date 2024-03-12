@@ -57,4 +57,14 @@
     <li>You can Either update the setting your create with default setting</li
 
 
+<hr>
+
+<h4>Configure Teams</h4>
+<p> allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.</p>
+
+<h5>Step One</h5>
+
+<ol>
+    <li>Click On Admin Panel ==> Agents ==> Teams ==> Add New Teams</li>
+       <img src="images/addnew_teams.png" alt="Add new teams image">
 
