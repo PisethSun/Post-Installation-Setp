@@ -40,3 +40,21 @@
 
 +Roles should be added to the table
 
+<hr>
+
+<h4>Configure Department</h4>
+
+<h5>Step One</h5>
+
+<ol>
+    <li>Click On Admin Panel ==> Agents ==> Department ==> Add New Department</li>
+    
+    
+    
+   <img src="images/Addnew_department.png" alt="Add new department image">
+
+   <br>
+    <li>You can Either update the setting your create with default setting</li
+
+
+
