@@ -68,3 +68,11 @@
     <li>Click On Admin Panel ==> Agents ==> Teams ==> Add New Teams</li>
        <img src="images/addnew_teams.png" alt="Add new teams image">
 
+<hr>
+
+<h3>Allowed Anyone to create Tickets<h3>
+
+Admin Panel > Setting > Users > Setting : Unchecked "Registeration Method " Set to Public. 
+
+<br>
+<img src="images/uncheck_registered method.png" alt="Add new  image">
