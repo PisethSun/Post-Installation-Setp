@@ -103,3 +103,16 @@ Admin Panel > Setting > Users > Setting : Unchecked "Registeration Method " Set 
        <img src="images/addnew_SLA.png" alt="Add new SLA image">
 
 <hr>
+
+
+
+<h4>Configure Help Topics</h4>
+<p> HELP TOPIC  will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.</p>
+
+<h5>Step One</h5>
+
+<ol>
+    <li>Click On Admin Panel > Manage > Help Topic > Add New help topic</li>
+       <img src="images/addnew_helptopic.png" alt="Add new help topic image">
+
+<hr>
