@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h4>Project Objective</h4>
+<h4>Project Objectives</h4>
 
 <ol>
     <li>Configure Roles</li>
@@ -16,3 +16,19 @@
     <li>Configure Users- Customers</li>
 </ol>
 <hr>
+
+<h4>Configure Roles</h4>
+
+<h5>Step One</h5>
+
+<ol>
+    <li>Login Using OsTicket Admin</li>
+    <li>Click On Admin Panel ==> Agents ==> Add New Agent</li>
+   
+   <img src="images/addnew_agent.png" alt="Add new agent image" width="300" height="200">
+
+   <p style="color: red;">*</p> Username and Password 
+
+   <p style="color: red;">Don't forget to write them down</p>
+
+</ol>
